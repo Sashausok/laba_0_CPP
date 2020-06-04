@@ -2,8 +2,8 @@
 
 ## Промінчик нових знань в безкраїй пітьмі нових Можливостей ##
 
-**emphasize**Let`s try to test and find out how does it works**emphasize**
+_**Я попробував і доволі таки непогано**_
 
+З форматом [Markdown](http://paulradzkov.com/2014/markdown_cheatsheet/) розібрався 
 
-
-
+~Надіюсь на вдале завершення курсу KEKW~
